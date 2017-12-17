@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Product": 4
+  },
+  "models": {
+    "Product": {
+      "1": "{\"name\":\"August Förster Flügel 170 schwarz poliert\",\"image\":\"http://www.pianosalon24.de/media/catalog/product/cache/1/image/800x600/17f82f742ffe127f42dca9de82fb58b1/a/u/august_foerster_fluegel_170_schwarz_poliert_01.jpg\",\"description\":\"Konzertflügel für große Aufführungen - vornehmlich in Konzerthallen<br>Länge: 275cm<br>Gewicht: 550kg\",\"price\":10000,\"id\":1}",
+      "2": "{\"name\":\"Ibanez GA6CE Nylon String Acoustic-Electric Guitar\",\"image\":\"http://images.samash.com/sa/IGA/IGA6CE-P.fpx?cvt=jpg\",\"description\":\"Größe: 4/4<br>Konstruktion: laminiert<br>Cutaway: ja<br>Decke: Fichte (Spruce)<br>Boden/Zargen: Mahagoni\",\"price\":5555,\"id\":2}",
+      "3": "{\"name\":\"Thomann Mc Big Dudelsack Palisander\",\"image\":\"https://www.thomann.de/pics/bdb/195666/11833105_800.jpg\",\"description\":\"very nice instrument\",\"price\":1234,\"id\":3}"
+    }
+  }
+}
