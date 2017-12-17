@@ -16,5 +16,9 @@
   "Product": {
     "dataSource": "mongodb",
     "public": true
+  },
+  "speech": {
+    "dataSource": "db",
+    "public": true
   }
 }
